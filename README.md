@@ -4,7 +4,7 @@ This repository contains the Jupyter Notebook file `Data_Mining_Project_Ensemble
 
 ## Dataset
 
-The dataset used for this project is not provided within the repository, but it can be obtained from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Heart+Disease). The dataset contains various attributes related to patient health and medical examination results, along with the target variable indicating the presence or absence of a heart attack.
+The dataset used for this project is not provided within the repository, but it can be obtained from the [Kaggle](https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset?datasetId=1226038&sortBy=voteCount). The dataset contains various attributes related to patient health and medical examination results, along with the target variable indicating the presence or absence of a heart attack.
 
 ## Project Overview
 
